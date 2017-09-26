@@ -33,7 +33,7 @@
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
-    "@angular/language-service": "~4.0.1",
+    "@angular/language-service": "~4.4.3",
     "@types/node": "^7.0.12",
     "angular2-router-loader": "^0.3.4",
     "angular2-template-loader": "^0.6.0",
